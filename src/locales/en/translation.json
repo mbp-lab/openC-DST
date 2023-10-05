@@ -232,8 +232,8 @@
  },
   "task_frame": {
     "correct": "Correct answers!",
-    "wrong": "Wrong answer!",
-    "slow": "Too slow!",
+    "wrong": "Unfortunately wrong.",
+    "slow": "",
     "missingInteraction": "Please continue with the test"
 
   },
