@@ -233,8 +233,8 @@
   },
   "task_frame": {
     "correct": "Richtige Antwort!",
-    "wrong": "Falsche Antwort!",
-    "slow": "Zu langsam!",
+    "wrong": "Leider falsch.",
+    "slow": "",
     "missingInteraction": "Bitte machen Sie weiter!"
 
   },
